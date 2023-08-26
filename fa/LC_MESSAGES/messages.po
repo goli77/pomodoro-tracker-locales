@@ -34,31 +34,31 @@ msgid "A random message will be chosen if there are multiple."
 msgstr ""
 
 msgid "Activities"
-msgstr ""
+msgstr "فعالیت ها"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "فعالیت ها بر اساس روزها"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "فعالیت ها بر اساس ماه ها"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "فعالیت ها بر اساس هفته ها"
 
 msgid "Add"
-msgstr ""
+msgstr "اضافه کردن"
 
 msgid "Add TODO"
-msgstr ""
+msgstr " اضافه کردن وظیفه"
 
 msgid "Add category"
-msgstr ""
+msgstr "دسته بندی جدید"
 
 msgid "Add more"
-msgstr ""
+msgstr "اضافه کردن موارد بیشتر"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "اضافه کردن وظایف جدید در بالا"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr ""
@@ -67,123 +67,122 @@ msgid "Application"
 msgstr ""
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "مطمئن هستید؟"
 
 msgid "Ask for the permission"
-msgstr ""
+msgstr "اجازه گرفتن برای دسترسی"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
+msgstr "در شروع هر روز وظایفی که باید انجام بدهید راانتخاب کنید و به لیست بالا اضافه کنید"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "شروع کردن خودکار استراحت ها"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "شروع کردن خودکار پومودورو"
 
 msgid "Block screen on breaks"
-msgstr ""
+msgstr "بستن صفحه در زمان استراحت"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
-
+msgstr "عزم خود را برای دستیابی به اهداف خود تقویت کنید"
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr " انگیزه تان را تقویت کنید و ثابت نگهش دارید"
 
 msgid "Break is over"
-msgstr ""
+msgstr "استراحت تموم شد"
 
 msgid "Categories"
-msgstr ""
+msgstr "دسته بندی ها"
 
 msgid "Clear All Data"
-msgstr ""
+msgstr "تمام اطلاعات را پاک کنید"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "تاریخچه کار های انجام شده را روزی یکبار پاک کنید"
 
 msgid "Clear the list"
-msgstr ""
+msgstr "لیست را پاک کنید"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "برای اضافه کردن بیشتر روی عدد کلیک کنید"
 
 msgid "Click to open menu"
-msgstr ""
+msgstr "برای بازکردن منو کلیک کنید"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "کلیک کنید یا تپ را برای ادیت کردن فشار دهید"
 
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 msgid "Color Theme"
-msgstr ""
+msgstr "رنگ تم"
 
 msgid "Configure"
-msgstr ""
+msgstr "شکل دادن"
 
 msgid "Confirm"
-msgstr ""
+msgstr "تایید کردن"
 
 msgid "Congratulations!"
-msgstr ""
+msgstr "تبریک میگم!"
 
 msgid "Connect"
-msgstr ""
+msgstr "اتصال"
 
 msgid "Copy to %1$s"
-msgstr ""
+msgstr "کپی کردن در %1$s "
 
 msgid "Create"
-msgstr ""
-
+msgstr "ساختن"
+                                                        
 msgid "Create a category"
-msgstr ""
+msgstr "ساختن یک دسته بندی"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "هدف روزانه"
 
 msgid "Danger Zone"
-msgstr ""
+msgstr "منطقه خطر"
 
 msgid "Date format"
-msgstr ""
+msgstr "قالب تاریخ"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "قطع اتصال"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr " اگر کاری برای انجام نیست پومودورو جدیدی را شروع نکنید"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr "کشیدن و رها کردن/برای مرتب کردن آیتم ها لمس کنید"
 
 msgid "Due"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "فعال کردن هشدار های مرورگر"
 
 msgid "Enable Desktop Notifications"
-msgstr ""
+msgstr "فعال کردن پیام های دسکتاپ"
 
 msgid "Enable Notifications"
-msgstr ""
+msgstr "فعال کردن پیام ها"
 
 msgid "Ends on"
-msgstr ""
+msgstr "به پایان می رسد در"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "با کم کردن وقفه ها تمرکز خود را افزایش دهید"
 
 msgid "Enjoy your break"
 msgstr ""
