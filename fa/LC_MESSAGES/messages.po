@@ -64,7 +64,7 @@ msgid "Alleviate anxiety linked to beginning"
 msgstr ""
 
 msgid "Application"
-msgstr ""
+msgstr "درخواست"
 
 msgid "Are you sure?"
 msgstr "مطمئن هستید؟"
@@ -75,7 +75,7 @@ msgstr "اجازه گرفتن برای دسترسی"
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr "در شروع هر روز وظایفی که باید انجام بدهید راانتخاب کنید و به لیست بالا اضافه کنید"
+msgstr "در شروع هر روز وظایفی که باید انجام بدهید را انتخاب کنید و به لیست بالا اضافه کنید"
 
 msgid "Auto start breaks"
 msgstr "شروع کردن خودکار استراحت ها"
@@ -185,122 +185,122 @@ msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "با کم کردن وقفه ها تمرکز خود را افزایش دهید"
 
 msgid "Enjoy your break"
-msgstr ""
+msgstr "از زمان استراحت خود لذت ببرید"
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "اطلاعات را با فرمت CSV استخراج کنید"
 
 msgid "Feedback"
-msgstr ""
+msgstr "بازخورد"
 
 msgid "Fill blank entries"
-msgstr ""
+msgstr "جا های خالی را پر کنید"
 
 msgid "Global shortcut to open Pomodoro-Tracker"
-msgstr ""
+msgstr " شورت کات سراسری برای باز کردن جدول پومودورو "
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "مخفی کردن پیام ها"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "اگر یک کار بیشتر از 5-7 پومودورو طول می کشدآن را به قسمت های کوچکتر تقسیم کنید"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr ""
+msgstr "اگر کاری کمتر از یک پومودورو وقت می برد آن را با یک کار دیگر ترکیب کنید"
 
 msgid "Import tasks from CSV"
-msgstr ""
+msgstr "وارد کردن کارها از CSV"
 
 msgid "Imported from External Sources"
-msgstr ""
+msgstr "وارد کردن اطلاعات از منبع خارجی"
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "روند کار کردن یا درس خواندن خود را بهتر کنید"
 
 msgid "Inbox"
-msgstr ""
+msgstr "صندوق ورودی"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "آگاهی از تصمیمات خود را افزایش دهید"
 
 msgid "Integration with %1$s"
-msgstr ""
+msgstr "%1$s ادغام با"
 
 msgid "Integrations"
-msgstr ""
+msgstr "ادغام ها"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "به رتبه بندی جهانی بپیوندید"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
-msgstr ""
+msgstr ".به کار خود ادامه دهی و پومودورو ها را به پایان برسانید تا زمانی که کاری که در حال انجامش هستید به پایان برسد. هر چهار پومودورو یک استراحت طولانی تر دارد، (15-30 دقیقه)"
 
 msgid "Language"
-msgstr ""
+msgstr "زبان"
 
 msgid "Like"
-msgstr ""
+msgstr "علاقه مندی"
 
 msgid "Load daily tasks"
-msgstr ""
+msgstr "بارگذاری کارهای روزانه"
 
 msgid "Loading"
-msgstr ""
+msgstr "بارپذاری"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "وارد سرویس شوید و روندتان را دنبال کنید"
 
 msgid "Login to the service using %1$s authentication."
-msgstr ""
+msgstr "%1$s به سرویس وارد شوید با اهراز هویت"
 
 msgid "Logout"
-msgstr ""
+msgstr "خروج از حساب"
 
 msgid "Long break"
-msgstr ""
+msgstr "استراحت طولانی"
 
 msgid "Long break delay"
 msgstr ""
 
 msgid "Long break duration"
-msgstr ""
+msgstr "مقدار زمان استراحت طولانی"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr ""
+msgstr " %1$s در چیزی که 6 متر از شما دور است برای ثانیه نگاه کنید"
 
 msgid "Mark as done"
-msgstr ""
+msgstr "علامت زدن به عنوان انجام شده"
 
 msgid "Median per day"
-msgstr ""
+msgstr "میانگین روزانه"
 
 msgid "Move to Inbox"
-msgstr ""
+msgstr "انتقال به صندوق ورودی"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "پیمایش به عقب"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "پیمایش به جلو"
 
 msgid "New"
-msgstr ""
+msgstr "جدید"
 
 msgid "Next long break"
-msgstr ""
+msgstr "استراحت طولانی بعدی"
 
 msgid "Notifications"
-msgstr ""
+msgstr "پیام ها"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "وقتی یک دقیقه باقی مانده به من اطلاع بده"
 
 msgid "Of those"
-msgstr ""
+msgstr "از آنها"
 
 msgid "Once a Pomodoro begins, it has to ring"
 msgstr ""
